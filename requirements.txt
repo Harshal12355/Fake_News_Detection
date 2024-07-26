@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+flask
+scikit-learn
+gensim
+scipy==1.10.1
